@@ -1,8 +1,6 @@
 /***********************************************************************
  * Source File:
  *    Point : The representation of a position on the screen
- * Author:
- *    Br. Helfrich
  * Summary:
  *    Everything we need to know about a location on the screen, including
  *    the location and the bounds.

@@ -1,6 +1,5 @@
 /*************************************************************
  * File: game.h
- * Author: Br. Burton
  *
  * Description: The game of Skeet. This class holds each piece
  *  of the game (birds, bullets, rifle, score). It also has

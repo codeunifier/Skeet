@@ -1,6 +1,5 @@
 /*************************************************************
  * File: rifle.h
- * Author: Br. Burton
  *
  * Description: Defines a Rifle.
  *

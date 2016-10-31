@@ -1,6 +1,5 @@
 /*************************************************************
  * File: rifle.cpp
- * Author: Br. Burton
  *
  * Description: Contains the function bodies for the rifle class.
  *
